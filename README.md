@@ -7,3 +7,5 @@
 [Jekyll 中文](http://jekyllcn.com/)
 
 [最简洁的JavaScript基础教程](http://yanhaijing.com/basejs/)
+
+[基于html5的zyUpload文件上传插件](https://github.com/Phamay/collection/blob/master/基于html5的zyUpload文件上传插件.md)
