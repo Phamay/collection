@@ -17,3 +17,5 @@
 [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
 
 [BootCDN 免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
+
+[给你的网站添加 console.js](https://github.com/Phamay/collection/blob/master/%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E6%B7%BB%E5%8A%A0%20console.js.md)
