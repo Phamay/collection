@@ -9,3 +9,11 @@
 [最简洁的JavaScript基础教程](http://yanhaijing.com/basejs/)
 
 [基于html5的zyUpload文件上传插件](https://github.com/Phamay/collection/blob/master/基于html5的zyUpload文件上传插件.md)
+
+[《Yaf零基础学习总结》](http://www.lai18.com/cate/60.html)
+
+[史上最浅显易懂的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+[Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
+
+[BootCDN 免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
