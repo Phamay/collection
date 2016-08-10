@@ -24,6 +24,8 @@
 
 [GO常用成熟库](http://go-search.org/tops)
 
+[GO文件改动重新编译](https://github.com/Phamay/fresh)
+
 [HTML5视频的那些事儿](https://github.com/Phamay/collection/blob/master/HTML5%E8%A7%86%E9%A2%91%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
 
 [JQuery插件收藏](http://www.jq22.com/)
